@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Siddhali Kathar, a Tech Enthusiast.</p>
+<p align="left"><B>I am Siddhali Kathar, a Tech Enthusiast.</B></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a Computer Science Engineering student who loves building projects that solve real problems. I’m curious about Data science and Product development.<br><br>💡 What I Do:<br>🌐 Full-Stack Development with Django, including end-to-end ML integration.<br>📊 Data Analysis & Machine Learning <br>🎨 Interested in UI/UX Design and how users interact with technology.<br><br>🚀 Currently Exploring:<br>Data Science, Cloud Technologies & ML.<br><br>🎤Beyond code, I’ve served as a Student Adviser Representative and enjoy hosting and coordinating events.</p>
+<p align="left">I am a Computer Science Engineering student who loves building projects that solve real problems. I’m curious about Data science and Product development.<br><br>💡 <B>What I Do:</B> <br>🌐 Full-Stack Development with Django, including end-to-end ML integration.<br>📊 Data Analysis & Machine Learning <br>🎨 Interested in UI/UX Design and how users interact with technology.<br><br>🚀<B> Currently Exploring:</B><br>Data Science, Cloud Technologies & ML.<br><br>🎤Beyond code, I’ve served as a Student Adviser Representative and enjoy hosting and coordinating events.</p>
 
 ###
 
